@@ -1,8 +1,8 @@
 {
-  "name": "insight-ui-dash",
-  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the Dash network and build your own services with it.",
+  "name": "insight-ui-socialsend",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the SocialSend network and build your own services with it.",
   "version": "0.4.3",
-  "repository": "git://github.com/dashpay/insight-ui-dash.git",
+  "repository": "git://github.com/SocialSend/insight-ui-socialsend.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -26,19 +26,19 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/dashpay/insight-ui-dash/issues"
+    "url": "https://github.com/SocialSend/insight-ui-socialsend/issues"
   },
-  "homepage": "https://github.com/dashpay/insight-ui-dash",
+  "homepage": "https://github.com/SocialSend/insight-ui-socialsend",
   "license": "MIT",
   "keywords": [
     "insight",
     "blockchain",
     "blockexplorer",
-    "dash",
-    "bitcore-dash",
+    "socialsend",
+    "socialsendcore",
     "front-end"
   ],
-  "bitcoreNode": "bitcore-node-dash",
+  "bitcoreNode": "socialsendcore-node",
   "dependencies": {
   },
   "devDependencies": {
